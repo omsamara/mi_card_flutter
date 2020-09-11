@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8056bbd4-9d52-42ad-b88a-e15372a01d9b" name="Default Changelist" comment="" />
+    <list default="true" id="8056bbd4-9d52-42ad-b88a-e15372a01d9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,10 +63,14 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="444" y="200" key="CommitChangelistDialog2/0.23.3440.1417@0.23.3440.1417" timestamp="1599783329620" />
-    <state x="692" y="488" width="524" height="296" key="Github.ShareDialog" timestamp="1599783951187">
+    <state x="692" y="488" width="524" height="296" key="Github.ShareDialog" timestamp="1599784225475">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="692" y="488" width="524" height="296" key="Github.ShareDialog/0.23.3440.1417@0.23.3440.1417" timestamp="1599783951187" />
+    <state x="692" y="488" width="524" height="296" key="Github.ShareDialog/0.23.3440.1417@0.23.3440.1417" timestamp="1599784225475" />
+    <state x="468" y="315" key="Github.UntrackedFilesDialog" timestamp="1599784237542">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="468" y="315" key="Github.UntrackedFilesDialog/0.23.3440.1417@0.23.3440.1417" timestamp="1599784237542" />
     <state width="1098" height="296" key="GridCell.Tab.0.bottom" timestamp="1599574790225">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
