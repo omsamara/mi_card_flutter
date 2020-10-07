@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8056bbd4-9d52-42ad-b88a-e15372a01d9b" name="Default Changelist" comment="">
+    <list default="true" id="8056bbd4-9d52-42ad-b88a-e15372a01d9b" name="Default Changelist" comment="Row, column layout challenge">
+      <change afterPath="$PROJECT_DIR$/images/udemy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/8fadb160fb521f84d5ac260af1d0fdfd/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/8fadb160fb521f84d5ac260af1d0fdfd/.filecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/8fadb160fb521f84d5ac260af1d0fdfd/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/8fadb160fb521f84d5ac260af1d0fdfd/app.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/intermediates/merged_assets/debug/out/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/build/app/outputs/flutter-apk/app.apk.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +47,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
@@ -66,19 +85,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599785499048</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Row, column layout challenge">
+      <created>1600027313830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600027313830</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mi_card" />
     <MESSAGE value="Safe area, center text widgets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Safe area, center text widgets" />
+    <MESSAGE value="Row, column layout challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Row, column layout challenge" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="200" key="CommitChangelistDialog2" timestamp="1599785496790">
+    <state x="444" y="200" key="CommitChangelistDialog2" timestamp="1602029342955">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="444" y="200" key="CommitChangelistDialog2/0.23.3440.1417@0.23.3440.1417" timestamp="1599785496790" />
+    <state x="231" y="150" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1600027311319" />
+    <state x="444" y="200" key="CommitChangelistDialog2/0.23.3440.1417@0.23.3440.1417" timestamp="1602029342955" />
     <state x="692" y="488" width="524" height="296" key="Github.ShareDialog" timestamp="1599784225475">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
@@ -87,41 +115,42 @@
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="468" y="315" key="Github.UntrackedFilesDialog/0.23.3440.1417@0.23.3440.1417" timestamp="1599784237542" />
-    <state width="998" height="291" key="GridCell.Tab.0.bottom" timestamp="1600026146995">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state width="1099" height="274" key="GridCell.Tab.0.bottom" timestamp="1602030415808">
+      <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="998" height="291" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1600026146995" />
-    <state width="1086" height="315" key="GridCell.Tab.0.bottom/0.23.3440.1417@0.23.3440.1417" timestamp="1599831879978" />
-    <state width="998" height="291" key="GridCell.Tab.0.center" timestamp="1600026146994">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state width="815" height="249" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1600093857897" />
+    <state width="1099" height="274" key="GridCell.Tab.0.bottom/0.23.3440.1417@0.23.3440.1417" timestamp="1602030415808" />
+    <state width="1099" height="274" key="GridCell.Tab.0.center" timestamp="1602030415808">
+      <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="998" height="291" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1600026146994" />
-    <state width="1086" height="315" key="GridCell.Tab.0.center/0.23.3440.1417@0.23.3440.1417" timestamp="1599831879978" />
-    <state width="998" height="291" key="GridCell.Tab.0.left" timestamp="1600026146993">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state width="815" height="249" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1600093857897" />
+    <state width="1099" height="274" key="GridCell.Tab.0.center/0.23.3440.1417@0.23.3440.1417" timestamp="1602030415808" />
+    <state width="1099" height="274" key="GridCell.Tab.0.left" timestamp="1602030415808">
+      <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="998" height="291" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1600026146993" />
-    <state width="1086" height="315" key="GridCell.Tab.0.left/0.23.3440.1417@0.23.3440.1417" timestamp="1599831879978" />
-    <state width="998" height="291" key="GridCell.Tab.0.right" timestamp="1600026146994">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state width="815" height="249" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1600093857896" />
+    <state width="1099" height="274" key="GridCell.Tab.0.left/0.23.3440.1417@0.23.3440.1417" timestamp="1602030415808" />
+    <state width="1099" height="274" key="GridCell.Tab.0.right" timestamp="1602030415808">
+      <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state width="998" height="291" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1600026146994" />
-    <state width="1086" height="315" key="GridCell.Tab.0.right/0.23.3440.1417@0.23.3440.1417" timestamp="1599831879978" />
+    <state width="815" height="249" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1600093857897" />
+    <state width="1099" height="274" key="GridCell.Tab.0.right/0.23.3440.1417@0.23.3440.1417" timestamp="1602030415808" />
     <state x="344" y="324" key="SettingsEditor" timestamp="1600024410708">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
     <state x="344" y="324" key="SettingsEditor/0.23.3440.1417@0.23.3440.1417" timestamp="1600024410708" />
-    <state x="441" y="421" key="Vcs.Push.Dialog.v2" timestamp="1599785507368">
-      <screen x="0" y="23" width="3440" height="1417" />
+    <state x="230" y="331" key="Vcs.Push.Dialog.v2" timestamp="1600027319070">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
+    <state x="230" y="331" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1600027319070" />
     <state x="441" y="421" key="Vcs.Push.Dialog.v2/0.23.3440.1417@0.23.3440.1417" timestamp="1599785507368" />
     <state x="191" y="123" width="840" height="897" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600026073512">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="191" y="123" width="840" height="897" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600026073511" />
-    <state x="443" y="384" width="670" height="676" key="search.everywhere.popup" timestamp="1600024405763">
+    <state x="443" y="384" width="670" height="676" key="search.everywhere.popup" timestamp="1602029318922">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="443" y="384" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417@0.23.3440.1417" timestamp="1600024405763" />
+    <state x="443" y="384" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417@0.23.3440.1417" timestamp="1602029318922" />
   </component>
 </project>

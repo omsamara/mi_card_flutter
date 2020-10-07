@@ -9,32 +9,19 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.teal,
         body: SafeArea(
-          child: Row(
-            crossAxisAlignment: CrossAxisAlignment.stretch,
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          child: Column(
             children: [
-              Container(
-                color: Colors.red,
-                width: 100,
+              CircleAvatar(
+                radius: 50.0,
+                backgroundImage: AssetImage('images/udemy.png'),
               ),
-              Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Container(
-                    color: Colors.yellow,
-                    width: 100,
-                    height: 100,
-                  ),
-                  Container(
-                    color: Colors.green,
-                    width: 100,
-                    height: 100,
-                  ),
-                ],
-              ),
-              Container(
-                color: Colors.blue,
-                width: 100,
+              Text(
+                'Udemy',
+                style: TextStyle(
+                  fontSize: 40.0,
+                  color: Colors.white,
+                  fontWeight: FontWeight.bold,
+                ),
               ),
             ],
           ),
