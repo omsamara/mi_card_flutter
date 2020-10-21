@@ -9,21 +9,34 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.teal,
         body: SafeArea(
-          child: Column(
-            children: [
-              CircleAvatar(
-                radius: 50.0,
-                backgroundImage: AssetImage('images/udemy.png'),
-              ),
-              Text(
-                'Udemy',
-                style: TextStyle(
-                  fontSize: 40.0,
-                  color: Colors.white,
-                  fontWeight: FontWeight.bold,
+          child: Center(
+            child: Column(
+              children: [
+                CircleAvatar(
+                  radius: 50.0,
+                  backgroundImage: AssetImage('images/omar.jpg'),
                 ),
-              ),
-            ],
+                Text(
+                  'Omar Samara',
+                  style: TextStyle(
+                    fontFamily: 'Pacifico',
+                    fontSize: 40.0,
+                    color: Colors.white,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+                Text(
+                  'ANDROID ENGINEER',
+                  style: TextStyle(
+                    fontFamily: 'Source Sans Pro',
+                    fontWeight: FontWeight.bold,
+                    fontSize: 30.0,
+                    color: Colors.teal[100],
+                    letterSpacing: 2.5,
+                  ),
+                ),
+              ],
+            ),
           ),
         ),
       ),
